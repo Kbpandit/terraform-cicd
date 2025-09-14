@@ -22,4 +22,5 @@ resource "azurerm_resource_group" "rg" {
   name     = "myResourceGroup"
   location = "eastus" # better format
 }
-#added comment
+#added new commit
+#for mian branch
